@@ -30,7 +30,7 @@ public class Main {
             String rutaArquivo = lectorTeclado.nextLine().trim();//fonte:https://www.w3api.com/Java/String/trim/
             File ficheiro = new File(rutaArquivo);
             ProcessBuilder construtorProceso = new ProcessBuilder("notepad", ficheiro.getAbsolutePath());
-            construtorProceso.inheritIO();
+            construtorProceso.inheritIO();//non ten sentido aquí, non é un programa de consola
 
             try {
                 Process procesoNotepad = construtorProceso.start();
