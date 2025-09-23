@@ -1,7 +1,7 @@
 # TAREA 3 - Editor de Arquivos con Bloc de Notas
 **Desenvolvido por**: Sofía Otero  
 **Asignatura**: PSP  
-**Versión**: 1.0
+**Versión**: 1.1
 ## 📋 Descrición
 
 Este programa permite crear ou editar arquivos de texto utilizando o Bloc de Notas (Notepad) de Windows dende a liña de comandos. Desenvolvido en Java. 
@@ -50,6 +50,7 @@ FIN
 - [Process.waitFor() - TutorialsPoint](https://www.tutorialspoint.com/java/lang/process_waitfor.htm)
 - [InterruptedException - Baeldung](https://www.baeldung.com/java-interrupted-exception)
 - https://campusvirtual.ull.es/ocw/pluginfile.php/15444/mod_resource/content/1/Tema%205.%20Manejo%20de%20ficheros%20en%20Java.pdf
+
 
 
 
