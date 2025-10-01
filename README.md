@@ -13,6 +13,7 @@ Cada cartafol corresponde a unha tarefa específica do temario.
 | :--- | :--- |
 | **Tarefa 03** | Editor de Arquivos con Bloc de Notas. |
 | **Tarefa 06** | Lanzador do comando PING con interface gráfica (Swing). |
+| **Tarefa 11** | Efecto dominó con fíos en cascada |
 
 ## Accesos Directos
 
