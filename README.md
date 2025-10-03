@@ -21,6 +21,8 @@ Cada cartafol corresponde a unha tarefa específica do temario.
 
 **[tarefa_06](tarefa_06)**
 
+**[tarefa_11](tarefa_11)**
+
 ![gato.jpg](gato.jpg)
 
 
