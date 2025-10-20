@@ -27,7 +27,7 @@ Cada cartafol corresponde a unha tarefa específica do temario.
 
 **[tarefa_19](tarefa_19)**
 
-**[tarefa_20_optativa](tarefa_20_optativa)**
+**[tarefa_optativa](tarefa_optativa)**
 
 ![gato.jpg](gato.jpg)
 
