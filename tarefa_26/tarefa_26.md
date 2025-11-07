@@ -1,4 +1,4 @@
-# TAREFA 26- MENSAXES ECO CLIENTE
+# TAREFA 27- MENSAXES ECO CLIENTE
 
 **Desenvolvido por**: Sofía Otero
 
@@ -48,3 +48,4 @@ Igual co server o cliente tamén entra nun bucle infinito. Le o texto que o usua
 Empreguei try-with-resources porque garantiza o peche automático e eficiencia dos Socket, ServerSocket, BufferedReader e PrintWriter.
 Xa que vin que era unha boa práctica.
   
+
