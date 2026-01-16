@@ -55,3 +55,5 @@ secure
 network
 server
 cliente
+bonjour
+cats
